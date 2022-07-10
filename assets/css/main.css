@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Arvo', serif;
+  background-color: #14213d;
+  line-height: 1.5;
+}
+
+.main-container {
+  padding: 0 5rem 0 5rem;
+}
+
+.button-default-style {
+  width: 20rem;
+  background-color: #FCA311;
+  color: #000;
+  height: 5rem;
+  margin-top: 1.5rem;
+  font-size: 1.5rem;
+  border-radius: 1.8rem;
+}

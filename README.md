@@ -1,4 +1,4 @@
-# guess-the-flag
+# Flag guessing game!
 
 ## Build Setup
 
